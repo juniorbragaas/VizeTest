@@ -7,7 +7,7 @@ using System.Web.Http;
 
 namespace WebApplication1.Controllers
 {
-    public class AdiantamentoController : ApiController
+    public class InstallmentController : ApiController
     {
   
         [HttpPost]

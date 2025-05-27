@@ -8,10 +8,13 @@ namespace Modelo
 {
     public class Installment
     {
-        public string InstallmentId { get; set; }
+        public int InstallmentId { get; set; }
         public DateTime DueDate { get; set; }
         public decimal Amount { get; set; }
         public string Status { get; set; }
         public bool Anticipated { get; set; }
+
+        public string ContractId { get; set; }
+        public virtual Contract Contract { get; set; }
     }
 }

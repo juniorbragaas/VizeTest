@@ -41,9 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdiantamentoBO.cs" />
+    <Compile Include="InstallmentBO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UsuariosBO.cs" />
+    <Compile Include="ClientBO.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -7,12 +7,12 @@ using System.Web.Http;
 
 namespace WebApplication1.Controllers
 {
-    public class UsuariosController : ApiController
+    public class ClientController : ApiController
     {
   
         [HttpPost]
         [Route("01Criar")]
-        public IHttpActionResult CriarAntecipacaoCriarAntecipacao()
+        public IHttpActionResult CriarUsuario()
         {
             return null;
         }
