@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repositorio.Interfaces
+namespace VizeTest.Testes.Cenarios
 {
-    internal interface IInstallmentRepository
+    internal class Retorno
     {
     }
 }
