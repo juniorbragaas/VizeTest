@@ -37,7 +37,7 @@ namespace VizeTest.Testes
         }
 
         [TestMethod]
-        public void T007T006InstallmentErroAntecipacaoUsuarioNaoPodeExecutarEssaOperacao()
+        public void T007InstallmentErroAntecipacaoUsuarioNaoPodeExecutarEssaOperacao()
         {
         }
     }

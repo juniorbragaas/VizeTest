@@ -8,8 +8,7 @@ namespace VizeTest.Testes
     {
         [TestMethod]
         public void T001CriarContratoSucesso()
-        {
-            
+        {  
         }
 
         [TestMethod]
